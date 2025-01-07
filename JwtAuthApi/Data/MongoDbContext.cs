@@ -1,6 +1,7 @@
 using JwtAuthApi.Models;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
+using System.Collections.Generic;
 
 namespace JwtAuthApi.Data
 {
@@ -15,6 +16,13 @@ namespace JwtAuthApi.Data
         }
 
         public IMongoCollection<User> Users => _database.GetCollection<User>("JwtAuthDbColl");
+        public IMongoCollection<University> Universities => _database.GetCollection<University>("USA");
+
+        // Method to get all universities
+        public List<University> GetAllUniversities()
+        {
+            return Universities.Find(university => true).ToList();
+        }
     }
 
     public class MongoDbSettings

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Cirruslabs\\hi\\JwtAuthApi\\JwtAuthApi.csproj": {}
+    "C:\\Users\\chira\\OneDrive\\Desktop\\.Net-login-Auth-main\\JwtAuthApi\\JwtAuthApi.csproj": {}
   },
   "projects": {
-    "E:\\Cirruslabs\\hi\\JwtAuthApi\\JwtAuthApi.csproj": {
+    "C:\\Users\\chira\\OneDrive\\Desktop\\.Net-login-Auth-main\\JwtAuthApi\\JwtAuthApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Cirruslabs\\hi\\JwtAuthApi\\JwtAuthApi.csproj",
+        "projectUniqueName": "C:\\Users\\chira\\OneDrive\\Desktop\\.Net-login-Auth-main\\JwtAuthApi\\JwtAuthApi.csproj",
         "projectName": "JwtAuthApi",
-        "projectPath": "E:\\Cirruslabs\\hi\\JwtAuthApi\\JwtAuthApi.csproj",
+        "projectPath": "C:\\Users\\chira\\OneDrive\\Desktop\\.Net-login-Auth-main\\JwtAuthApi\\JwtAuthApi.csproj",
         "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
-        "outputPath": "E:\\Cirruslabs\\hi\\JwtAuthApi\\obj\\",
+        "outputPath": "C:\\Users\\chira\\OneDrive\\Desktop\\.Net-login-Auth-main\\JwtAuthApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
